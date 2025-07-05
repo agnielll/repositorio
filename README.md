@@ -1,2 +1,1 @@
-# repositorio
-hola repositorio de prueba
+este proecto es una practica de terminal xD
