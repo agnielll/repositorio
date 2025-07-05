@@ -1,1 +1,1 @@
-este proecto es una practica de terminal xD
+buenos dias a todos
